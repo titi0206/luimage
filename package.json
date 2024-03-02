@@ -1,5 +1,5 @@
 {
-    "name": "image",
+    "name": "luimage",
     "version": "1.0.2",
     "main": "lib/image.js",
     "description": "This is a node.js module that unifies node-png, node-gif and node-jpeg modules.",
@@ -15,15 +15,12 @@
         "image"
     ],
     "author": {
-        "name": "Peteris Krumins",
-        "email": "peteris.krumins@gmail.com",
-        "web": "http://www.catonmat.net",
-        "twitter": "pkrumins"
+        "name": "titi0206"
     }, 
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "http://github.com/pkrumins/node-image.git" 
+        "url": "https://github.com/titi0206/luimage.git" 
     }, 
     "directories": {
         "lib": "lib"
