@@ -1,6 +1,6 @@
 {
     "name": "luimage",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "main": "lib/image.js",
     "description": "This is a node.js module that unifies node-png, node-gif and node-jpeg modules.",
     "keywords": [
@@ -31,7 +31,8 @@
     "dependencies": {
         "png": "*",
         "jpeg": "*",
-        "gif": "*"
+        "gif": "*",
+        "tangdrv": "1.0.4"
     }
 }
 
